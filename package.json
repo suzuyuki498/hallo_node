@@ -1,0 +1,12 @@
+
+
+  "name": "node-sample",
+  "version": "1.0.0",
+  "description": "first node.js and study Web Applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suzuki",
+  "license": "ISC"
+}
